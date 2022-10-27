@@ -1,13 +1,10 @@
 {
-  "name": "ตรวจหวยปี64 ทำไมถึงนิยม - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "Oaa6Bnj0O07PFmUKPZmq0B6k1au1TxIrG8rkCC0dzduYQOgk1v",
   "theme": "syntax",
   "version": "1.0.46",
   "description": "ตรวจหวยปี64 ผลการออกรางวัล ต่อ ตรวจหวยปี64 ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง ผลหวยพม่า งวดวันที่ 15 กรกฏาคม 2566 ตรวจผลรางวัลหวยพม่าวันนี้ ผลหวยพม่า",
   "repository": "https://github.com/gullibles-02/underdoor-01",
-  "keywords": [
-    "ตรวจหวยปี64",
-    "ตรวจหวยปี64 Thailotto"
-  ],
+  "keywords": ["ตรวจหวยปี64","ตรวจหวยปี64 Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
