@@ -1,16 +1,10 @@
 {
-  "name": "www.ruay.com เข้าระบบ แตกต่างกันอย่างไร - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "JC0uK1Rj2uknRPTb16NEfb5xORQ9zjFpXuaOHUGXz1du78lb1h",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "www.ruay.com เข้าระบบ หมายเหตุ ด้วย www.ruay.com เข้าระบบ Thailotto หวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวัลที",
   "repository": "https://github.com/gullibles-02/underdoor-01",
-  "keywords": [
-    "WWW.RUAY.COM เข้าระบบ",
-    "WWW.RUAY.COM",
-    "เข้าระบบ",
-    "WWW.RUAY.COM Thailotto",
-    "เข้าระบบ Thailotto"
-  ],
+  "keywords": ["WWW.RUAY.COM เข้าระบบ","WWW.RUAY.COM","เข้าระบบ","WWW.RUAY.COM Thailotto","เข้าระบบ Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
