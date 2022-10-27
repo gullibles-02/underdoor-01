@@ -1,16 +1,10 @@
 {
-  "name": "เว็บหวย พลัส เล่นยังไง - เว็บใหม่ 999lucky 2023 ล่าสุด",
+  "name": "P5NasgyPonYEPtpG2GjfY3lULEAgiOTJKdTpx2nNHoxH0hyYr5",
   "theme": "syntax",
   "version": "1.0.8",
   "description": "เว็บหวย พลัส หวยยี่กี ได้แก่ เว็บหวย พลัส 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด ( จับยี่กี ) มีที่มาจากการเล่นไพ่ของจีนหรือที่เรียกว่า จับยี่กี โดยจะมีไพ",
   "repository": "https://github.com/gullibles-02/underdoor-01",
-  "keywords": [
-    "เว็บหวย พลัส",
-    "เว็บหวย",
-    "พลัส",
-    "เว็บหวย 999Lucky",
-    "พลัส 999Lucky"
-  ],
+  "keywords": ["เว็บหวย พลัส","เว็บหวย","พลัส","เว็บหวย 999Lucky","พลัส 999Lucky"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
