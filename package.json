@@ -1,0 +1,12 @@
+{
+  "name": "wBqmcePPDoLYbcV8uB0EC7elxorWT7HLdhsWn03EoJNlQ6h5hC",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "หวยหุ้นช่อง 9 วันนี้ หวยไทยรัฐ หรือ หวยหุ้นช่อง 9 วันนี้ ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง เป็นชุดเลขเด่นทีทำผลงานได้ดีในงวดวันที่ 15 พฤษภาคม หวยหุ้นช่อง",
+  "repository": "https://github.com/gullibles-02/underdoor-01",
+  "keywords": ["หวยหุ้นช่อง 9 วันนี้","หวยหุ้นช่อง","9","วันนี้","หวยหุ้นช่อง Ruay","9 Ruay","วันนี้ Ruay"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
