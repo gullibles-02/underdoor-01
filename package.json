@@ -1,16 +1,10 @@
 {
-  "name": "yahoo ไต้หวัน แตกต่างกันอย่างไร - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "k4lEy17kIVCqQUyQEg8x4TzeqS82Babaaoc9i631S7j2vKP39N",
   "theme": "syntax",
   "version": "1.0.79",
   "description": "Yahoo ไต้หวัน เด่นบน หรือ Yahoo ไต้หวัน ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง 2 ได้ชุดเลข 3 ตัว และ 2 ตัว ดังนี้726-762-267-276-672-62723-3226-6229-92เด่นล่",
   "repository": "https://github.com/gullibles-02/underdoor-01",
-  "keywords": [
-    "YAHOO ไต้หวัน",
-    "YAHOO",
-    "ไต้หวัน",
-    "YAHOO Choke",
-    "ไต้หวัน Choke"
-  ],
+  "keywords": ["YAHOO ไต้หวัน","YAHOO","ไต้หวัน","YAHOO Choke","ไต้หวัน Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
